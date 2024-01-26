@@ -6,10 +6,9 @@ This Repository will contain all the code I write in Rust throughout my learning
   ```
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
   ```
-2. Enter the following line to source your newly-installed Rust toolchain.
+2. Enter the following line to source your newly-installed Rust toolchain. This command has to be run only once after installing Rust the first time.
   ```
   source "$HOME/.cargo/env"
   ```
-Alternatively, you can put that line in .bashrc to source it automatically on startup.
 3. Now, to check if everything went okay, enter `rustup` in the terminal and you should see a screen like this:
-
+![](README_Photos/rustup.png)
