@@ -12,3 +12,7 @@ This Repository will contain all the code I write in Rust throughout my learning
   ```
 3. Now, to check if everything went okay, enter `rustup` in the terminal and you should see a screen like this:
 ![](README_Photos/rustup.png)
+
+
+## Installing Rustlings
+For more info about Rustlings, please checkout their [Github repository](https://github.com/rust-lang/rustlings).
