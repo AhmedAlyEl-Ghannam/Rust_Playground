@@ -16,3 +16,5 @@ This Repository will contain all the code I write in Rust throughout my learning
 
 ## Installing Rustlings
 For more info about Rustlings, please checkout their [Github repository](https://github.com/rust-lang/rustlings).
+
+This is me testing Git.
